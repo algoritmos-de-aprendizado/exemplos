@@ -1,6 +1,3 @@
-# dijkstra
-Implementação do algoritmo de Dijkstra em Python.
-
 ## Instruções de instalação
 Instalar poetry.
 Clonar este repositório.
